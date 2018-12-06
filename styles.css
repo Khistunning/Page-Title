@@ -1,0 +1,17 @@
+h1{
+    border:solid black 25px ;
+}
+.goat{
+    display:flex;
+    justify-content:space-around;
+}
+.stockx{
+    border-radius: 50%;
+}
+.brother{
+    background-color:red;
+}
+img{
+    width:40%;
+}
+
